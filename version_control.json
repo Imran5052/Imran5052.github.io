@@ -1,5 +1,8 @@
 {
-  "new_version_code": 6.0,
+  "new_version_code": 6,
   "force_update": false,
-  "update_url": "https://play.google.com/store/apps/details?id=com.securestream.global"
+  "update_url": "https://play.google.com/store/apps/details?id=com.securestream.global",
+  "maintenance_mode": false,
+  "maintenance_msg": "⚠️ Server Maintenance!\n\nBhai, hum server upgrade kar rahe hain taaki aapko best experience mile. Bas thodi der intezaar karein! 😊",
+  "whats_new": "🚀 Naya Dhamaka Update!\n\n✅ Super Fast Streaming ⚡\n✅ New Premium UI Design ✨\n✅ Fixed All Buffering Issues 📺\n✅ Tier-1 High Speed Servers 🌍\n\nAbhi Update Karein Aur Maze Lein! 🔥"
 }
