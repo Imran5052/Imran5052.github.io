@@ -1,8 +1,8 @@
 {
-  "new_version_code": 6,
+  "new_version_code": 8,
   "force_update": false,
   "update_url": "https://play.google.com/store/apps/details?id=com.securestream.global",
   "maintenance_mode": false,
-  "maintenance_msg": "⚠️ Server Maintenance!\n\nBhai, hum server upgrade kar rahe hain taaki aapko best experience mile. Bas thodi der intezaar karein! 😊",
-  "whats_new": "🚀 Naya Dhamaka Update!\n\n✅ Super Fast Streaming ⚡\n✅ New Premium UI Design ✨\n✅ Fixed All Buffering Issues 📺\n✅ Tier-1 High Speed Servers 🌍\n\nAbhi Update Karein Aur Maze Lein! 🔥"
+  "maintenance_msg": "⚠️ Scheduled Maintenance\n\nWe are currently enhancing our infrastructure to deliver a faster, more reliable experience. Services will resume shortly. We appreciate your patience.",
+  "whats_new": "🚀 Experience the Upgrade\n\n✨ Refined interface with a more elegant and intuitive design\n📉 Optimized ad experience for uninterrupted usage\n🔐 Enhanced GDPR compliance for improved privacy standards\n🌐 Upgraded server infrastructure for superior speed and stability\n▶️ Smoother, more responsive video playback\n\nUpdate now to enjoy a more seamless and premium experience."
 }
